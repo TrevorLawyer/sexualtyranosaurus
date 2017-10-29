@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "902357016400",
+    "firebase_url": "https://mobileapps-final.firebaseio.com",
+    "project_id": "mobileapps-final",
+    "storage_bucket": "mobileapps-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902357016400:android:8290d1425135ea84",
+        "android_client_info": {
+          "package_name": "edu.uco.tlawyer.whereyouat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902357016400-a31v3hvummno65bpjtauv6b4pnvl6rsp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.uco.tlawyer.whereyouat",
+            "certificate_hash": "1b61b2d77fcd402cd7b6b99477c2493a014b74cd"
+          }
+        },
+        {
+          "client_id": "902357016400-l8oa0c4ds3b97algq4cetcmb0mrol6sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLRCeNRkMLtQkjVw47RF0Q5KQOuaZTX8E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902357016400-l8oa0c4ds3b97algq4cetcmb0mrol6sr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
